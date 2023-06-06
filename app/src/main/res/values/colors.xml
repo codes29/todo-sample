@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bg_app_bar">#FDF7FE</color>
+    <color name="fill_icons">#45414A</color>
+    <color name="text_appbar_heading">#1D1B20</color>
+    <color name="bg_border_lines">#DBDBDB</color>
+    <color name="text_error">#DB2F20</color>
+    <color name="border_checkbox">#B4B4B4</color>
+    <color name="fill_checkbox">#974FA8</color>
+    <color name="text_primary">#171717</color>
+    <color name="text_time">#8A8B8B</color>
+    <color name="fill_cross_icon">#928F95</color>
+    <color name="fill_add_icon">#1D1B1F</color>
+    <color name="bg_add_icon">#EBE6F0</color>
+    <color name="text_hint">#605C65</color>
+    <color name="text_spinner">#49454F</color>
+    <color name="bg_btn_highlighted">#63519F</color>
+    <color name="text_btn_not_highlighted">#64519F</color>
+    <color name="text_btn_highlighted">#FFFFFF</color>
+    
+</resources>
